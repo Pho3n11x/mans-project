@@ -1,0 +1,40 @@
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #7db5e9;
+    text-shadow: 7px 5px 7px rgb(128, 22, 22);
+    text-align: center;
+    font-size: 70px;
+  }
+
+p, li {
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: 1px;
+    padding: auto;
+
+    
+}
+
+html {
+    background-color: #9f6dce;
+  }
+
+  body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #e79e0d;
+    border: 5px solid rgb(22, 2, 2);
+    padding: 20px 20px 20px;
+  }
+
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  h2, h3, h4 {
+    text-align: center;
+    font-size: 30px;
+  }
